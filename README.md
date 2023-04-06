@@ -4,11 +4,11 @@ Homepage present my own webside. You can find out more about me as a developer.
 
 ## Technology:
 
--HTML 
--CSS 
--Bootstrap 
--JavaScript 
+* HTML 
+* CSS 
+* Bootstrap 
+* JavaScript 
 
 ### visi site:
 
-[welcome](https://link-url-here.org)
+[welcome](https://wojocode.github.io/folio_ver1/)
