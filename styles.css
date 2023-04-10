@@ -44,7 +44,7 @@ article{
 }
 body {
     font-family:rajdani;
-    background: url(/src/assets/images/sky.jpg) black;
+    background: url(assets/images/sky.jpg) black;
     min-height:100vh;
     font-size:20px;
     color:white;

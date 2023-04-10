@@ -9,6 +9,6 @@ Homepage present my own webside. You can find out more about me as a developer.
 * Bootstrap 
 * JavaScript 
 
-### visi site:
+### visit site:
 
 [welcome](https://wojocode.github.io/folio_ver1/)
